@@ -1,5 +1,5 @@
 # cp_test
-
+This Project including using Vue3,Vuex Bootstrap, Loading, animation,Dark Mode
 ## Project setup
 ```
 npm install
